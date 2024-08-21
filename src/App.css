@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+body{
+  background-image: url(https://bikekharido.in/wp-content/uploads/2022/02/brands-features.jpg);
+  background-size: cover;
+}
+button{
+  padding: 30px;
+  margin: 10px;
+  background-color: green;
+  color: white;
+  border-radius: 20px;
+}
